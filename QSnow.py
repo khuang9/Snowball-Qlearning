@@ -2,7 +2,7 @@
 """
 Created on Wed May 24 18:11:30 2023
 
-@author: kevinh
+@author: kevinhuang
 """
 from random import choice, random
 #from tkinter import *
